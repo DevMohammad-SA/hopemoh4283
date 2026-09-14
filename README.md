@@ -11,7 +11,7 @@ I write about all of it, in Arabic.
 
 ## Writing
 
-**[blog.devmohammad.com](https://blog.devmohammad.com)** — Arabic technical writing on Linux, self-hosting, privacy, and the Fediverse. Nearly all of this material exists only in English; I'm filling part of that gap.
+**[blog.devmohammad.com](https://blog.devmohammad.me)** — Arabic technical writing on Linux, self-hosting, privacy, and the Fediverse. Nearly all of this material exists only in English; I'm filling part of that gap.
 
 ---
 
